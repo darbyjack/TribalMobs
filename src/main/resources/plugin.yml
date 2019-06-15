@@ -1,0 +1,6 @@
+name: TribalMobs
+version: ${project.version}
+main: me.glaremasters.tribalmobs.TribalMobs
+api-version: 1.13
+authors: [Glare]
+description: TribalMobs
